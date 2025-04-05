@@ -9,6 +9,15 @@
 
 ---
 
+## 🐳 Deep Learning Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔗 [Customer-Churn-Prediction-API](https://github.com/jagadish-sonamale/customer-churn-prediction-api) | Learn Docker basics: images, containers, networks | Docker, Dockerfile |
+| 🔗 [SpringBoot + Docker](https://github.com/yourusername/springboot-docker) | Containerizing a Spring Boot microservice | Spring Boot, Docker, REST API |
+
+---
+
 ## 🐳 Docker Projects
 
 | Project | Description | Tech Stack |
