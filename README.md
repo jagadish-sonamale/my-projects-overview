@@ -13,7 +13,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [Customer-Churn-Prediction-API](https://github.com/jagadish-sonamale/customer-churn-prediction-api) | Learn Docker basics: images, containers, networks | Docker, Dockerfile |
+| 🔗 [Customer-Churn-Prediction-API](https://github.com/jagadish-sonamale/customer-churn-prediction-api) | End-to-end ML deployment pipeline for customer churn prediction. Includes CI/CD with GitHub Actions, Dockerized FastAPI app, deployed on Kubernetes in AWS EC2, using TFLite for optimized inference. | Python, FastAPI, Scikit-Learn, Docker, GitHub, GitHub Actions, Kubernetes, AWS EC2, TensorFlow Lite |
 | 🔗 [SpringBoot + Docker](https://github.com/yourusername/springboot-docker) | Containerizing a Spring Boot microservice | Spring Boot, Docker, REST API |
 
 ---
